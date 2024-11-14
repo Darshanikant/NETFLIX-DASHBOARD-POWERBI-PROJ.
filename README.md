@@ -1,4 +1,3 @@
-
 # NETFLIX DATA ANALYSIS DASHBOARD
 - This project is a Power BI dashboard that analyzes Netflix's extensive content library. By leveraging IMDb scores, viewer engagement metrics, and other content attributes, this dashboard provides insights into content trends, popularity, and audience preferences. This repository contains details on how the project was created, along with instructions for publishing it to Power BI Service.
 
